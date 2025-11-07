@@ -1,46 +1,25 @@
-# 🌐 My Developer Portfolio Website
+# 🏀 Sports Player Stats & Info Website
 
-Welcome to my personal website!  
-This site showcases my GitHub activity, developer stats, and projects — plus a section where I highlight custom game screenshots and gameplay clips 🎮.
-
----
-
-## 🚀 Features
-
-- **GitHub Profile Info** (username, bio, repositories)
-- **GitHub Stats Cards** (languages used, streak stats, contribution overview)
-- **Game Screenshot Gallery**
-- **Responsive & clean UI**
-- **Fast and lightweight**
+This is a web app that displays **detailed player stats, team info, and game highlights**.  
+It provides a simple and clean dashboard where users can view player performance over time, compare stats, and explore interactive player cards.
 
 ---
 
-## 🖥️ Live Demo
-👉 https://your-website-link.com
+## 🎯 Features
+
+- **Player Profiles** (name, photo, position, team, age)
+- **Game & Season Stats** (points, assists, rebounds, goals, etc.)
+- **Team Comparison**
+- **Search & Filter** players easily
+- **Responsive UI** for desktop & mobile
 
 ---
 
-## 📸 Preview
+## 🏆 Example Player Card
 
-| Home Page | Game Gallery |
-|----------|--------------|
-| <img src="https://via.placeholder.com/350x200" /> | <img src="https://via.placeholder.com/350x200" /> |
+| Player | Position | Team |
+|-------|----------|------|
+| <img src="https://via.placeholder.com/80" /> | Forward | Wildcats |
 
----
+**Recent Stats**
 
-## 🧠 GitHub Stats
-
-> Replace `YOUR-GITHUB-USERNAME` with your actual username.
-
-| Stats | Languages |
-|------|-----------|
-| ![](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight) |
-
-### 🔥 Streak Stats
-![](https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight)
-
----
-
-## 🎮 Game Screenshots
-
-Add your screenshots inside:  
